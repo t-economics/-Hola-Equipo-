@@ -70,6 +70,8 @@ Desarrollar productos de alta calidad que:
 5. Code Review obligatorio
 6. Merge tras aprobación ✅
 
+---
+
 ✍️ Estándares de Código
 
 📏 Seguir las guías de estilo
@@ -82,6 +84,7 @@ Desarrollar productos de alta calidad que:
 
 🚫 Evitar código duplicado o innecesario
 
+---
 
 🧪 Testing
 
@@ -95,6 +98,8 @@ Creemos en la calidad desde el inicio:
 
 💬 Comunicación
 
+---
+
 Utilizamos:
 
 💬 Slack /Clickup — Comunicación diaria
@@ -105,6 +110,7 @@ Utilizamos:
 
 Las dudas son bienvenidas. Preguntar es parte del crecimiento.
 
+---
 
 🌱 Cultura de Crecimiento
 
@@ -120,4 +126,4 @@ Tu talento, ideas y compromiso hacen la diferencia.
 
 Estamos emocionados de construir grandes cosas contigo.
 
-<p align="center"> <b>🚀 ¡Bienvenido/a al equipo!</b> </p> ```
+🚀 ¡Bienvenido/a al equipo!
