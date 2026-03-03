@@ -40,7 +40,7 @@ Desarrollar productos de alta calidad que:
 `Node.js` · `Python` · `Java`
 
 ### 🔹 Base de Datos
-`PostgreSQL` · `MongoDB`
+`MongoDB` · `PostgreSQL` · `MongoDB`
 
 ### 🔹 DevOps
 `Git` · `GitHub Actions` · `GitLab CI` · `Docker`
@@ -82,6 +82,7 @@ Desarrollar productos de alta calidad que:
 
 🚫 Evitar código duplicado o innecesario
 
+
 🧪 Testing
 
 Creemos en la calidad desde el inicio:
@@ -96,13 +97,14 @@ Creemos en la calidad desde el inicio:
 
 Utilizamos:
 
-💬 Slack / Teams — Comunicación diaria
+💬 Slack /Clickup — Comunicación diaria
 
 📌 Issues — Seguimiento de tareas
 
 🔍 Pull Requests — Discusión técnica
 
 Las dudas son bienvenidas. Preguntar es parte del crecimiento.
+
 
 🌱 Cultura de Crecimiento
 
