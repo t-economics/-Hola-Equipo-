@@ -8,7 +8,7 @@
 
 ## 🎯 Nuestra Misión
 
-Desarrollar productos de alta calidad que:
+Desarrollar productos y servicios que:
 
 - ✅ Resuelvan problemas reales  
 - ⚙️ Sean escalables y mantenibles  
